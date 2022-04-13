@@ -1,7 +1,7 @@
 import random
 
-lover_case = "qwertyuopğasdfghjkizxcvbnm"
-upper_case = "QWERTYUOPĞASDFGHJKIZXCVBNM"
+lover_case = "qwertyuopasdfghjkizxcvbnm"
+upper_case = "QWERTYUOPASDFGHJKIZXCVBNM"
 numbers = "123456789"
 symblos = "!'^+%&/()=?_;>£#${}[]|"
 
